@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.exe
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.deps.json
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.runtimeconfig.json
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.dll
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MyFirstConsole\bin\Debug\net5.0\ref\MyFirstConsole.dll
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.pdb
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.AssemblyInfo.cs
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.dll
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\ref\MyFirstConsole.dll
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.pdb
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.genruntimeconfig.cache

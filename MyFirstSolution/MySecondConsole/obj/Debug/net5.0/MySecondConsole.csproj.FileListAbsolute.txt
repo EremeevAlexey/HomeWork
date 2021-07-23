@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MySecondConsole\obj\Debug\net5.0\MySecondConsole.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MySecondConsole\obj\Debug\net5.0\MySecondConsole.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MySecondConsole\obj\Debug\net5.0\MySecondConsole.AssemblyInfo.cs
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MySecondConsole\obj\Debug\net5.0\MySecondConsole.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MySecondConsole\bin\Debug\net5.0\MySecondConsole.exe
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MySecondConsole\bin\Debug\net5.0\MySecondConsole.deps.json
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MySecondConsole\bin\Debug\net5.0\MySecondConsole.runtimeconfig.json
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MySecondConsole\bin\Debug\net5.0\MySecondConsole.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MySecondConsole\bin\Debug\net5.0\MySecondConsole.dll
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MySecondConsole\bin\Debug\net5.0\ref\MySecondConsole.dll
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MySecondConsole\bin\Debug\net5.0\MySecondConsole.pdb
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MySecondConsole\obj\Debug\net5.0\MySecondConsole.dll
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MySecondConsole\obj\Debug\net5.0\ref\MySecondConsole.dll
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MySecondConsole\obj\Debug\net5.0\MySecondConsole.pdb
+\\Mac\Home\Desktop\Домашняя работа 2\MyFirstSolution\MySecondConsole\obj\Debug\net5.0\MySecondConsole.genruntimeconfig.cache
