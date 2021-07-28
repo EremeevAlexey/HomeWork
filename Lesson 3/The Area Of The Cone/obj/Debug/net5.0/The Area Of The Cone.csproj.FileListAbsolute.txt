@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\HW\Lesson 3\The Area Of The Cone\bin\Debug\net5.0\The Area Of The Cone.exe
+\\Mac\Home\Desktop\HW\Lesson 3\The Area Of The Cone\bin\Debug\net5.0\The Area Of The Cone.deps.json
+\\Mac\Home\Desktop\HW\Lesson 3\The Area Of The Cone\bin\Debug\net5.0\The Area Of The Cone.runtimeconfig.json
+\\Mac\Home\Desktop\HW\Lesson 3\The Area Of The Cone\bin\Debug\net5.0\The Area Of The Cone.runtimeconfig.dev.json
+\\Mac\Home\Desktop\HW\Lesson 3\The Area Of The Cone\bin\Debug\net5.0\The Area Of The Cone.dll
+\\Mac\Home\Desktop\HW\Lesson 3\The Area Of The Cone\bin\Debug\net5.0\ref\The Area Of The Cone.dll
+\\Mac\Home\Desktop\HW\Lesson 3\The Area Of The Cone\bin\Debug\net5.0\The Area Of The Cone.pdb
+\\Mac\Home\Desktop\HW\Lesson 3\The Area Of The Cone\obj\Debug\net5.0\The Area Of The Cone.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\HW\Lesson 3\The Area Of The Cone\obj\Debug\net5.0\The Area Of The Cone.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\HW\Lesson 3\The Area Of The Cone\obj\Debug\net5.0\The Area Of The Cone.AssemblyInfo.cs
+\\Mac\Home\Desktop\HW\Lesson 3\The Area Of The Cone\obj\Debug\net5.0\The Area Of The Cone.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\HW\Lesson 3\The Area Of The Cone\obj\Debug\net5.0\The Area Of The Cone.dll
+\\Mac\Home\Desktop\HW\Lesson 3\The Area Of The Cone\obj\Debug\net5.0\ref\The Area Of The Cone.dll
+\\Mac\Home\Desktop\HW\Lesson 3\The Area Of The Cone\obj\Debug\net5.0\The Area Of The Cone.pdb
+\\Mac\Home\Desktop\HW\Lesson 3\The Area Of The Cone\obj\Debug\net5.0\The Area Of The Cone.genruntimeconfig.cache

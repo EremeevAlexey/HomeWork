@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\HW\Lesson 3\Operators\bin\Debug\net5.0\Operators.exe
+\\Mac\Home\Desktop\HW\Lesson 3\Operators\bin\Debug\net5.0\Operators.deps.json
+\\Mac\Home\Desktop\HW\Lesson 3\Operators\bin\Debug\net5.0\Operators.runtimeconfig.json
+\\Mac\Home\Desktop\HW\Lesson 3\Operators\bin\Debug\net5.0\Operators.runtimeconfig.dev.json
+\\Mac\Home\Desktop\HW\Lesson 3\Operators\bin\Debug\net5.0\Operators.dll
+\\Mac\Home\Desktop\HW\Lesson 3\Operators\bin\Debug\net5.0\ref\Operators.dll
+\\Mac\Home\Desktop\HW\Lesson 3\Operators\bin\Debug\net5.0\Operators.pdb
+\\Mac\Home\Desktop\HW\Lesson 3\Operators\obj\Debug\net5.0\Operators.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\HW\Lesson 3\Operators\obj\Debug\net5.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\HW\Lesson 3\Operators\obj\Debug\net5.0\Operators.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\HW\Lesson 3\Operators\obj\Debug\net5.0\Operators.AssemblyInfo.cs
+\\Mac\Home\Desktop\HW\Lesson 3\Operators\obj\Debug\net5.0\Operators.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\HW\Lesson 3\Operators\obj\Debug\net5.0\Operators.dll
+\\Mac\Home\Desktop\HW\Lesson 3\Operators\obj\Debug\net5.0\ref\Operators.dll
+\\Mac\Home\Desktop\HW\Lesson 3\Operators\obj\Debug\net5.0\Operators.pdb
+\\Mac\Home\Desktop\HW\Lesson 3\Operators\obj\Debug\net5.0\Operators.genruntimeconfig.cache
