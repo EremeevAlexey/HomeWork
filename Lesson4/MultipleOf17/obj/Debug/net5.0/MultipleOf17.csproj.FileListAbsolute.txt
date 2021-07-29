@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\MultipleOf17\bin\Debug\net5.0\MultipleOf17.exe
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\MultipleOf17\bin\Debug\net5.0\MultipleOf17.deps.json
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\MultipleOf17\bin\Debug\net5.0\MultipleOf17.runtimeconfig.json
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\MultipleOf17\bin\Debug\net5.0\MultipleOf17.runtimeconfig.dev.json
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\MultipleOf17\bin\Debug\net5.0\MultipleOf17.dll
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\MultipleOf17\bin\Debug\net5.0\ref\MultipleOf17.dll
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\MultipleOf17\bin\Debug\net5.0\MultipleOf17.pdb
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\MultipleOf17\obj\Debug\net5.0\MultipleOf17.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\MultipleOf17\obj\Debug\net5.0\MultipleOf17.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\MultipleOf17\obj\Debug\net5.0\MultipleOf17.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\MultipleOf17\obj\Debug\net5.0\MultipleOf17.AssemblyInfo.cs
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\MultipleOf17\obj\Debug\net5.0\MultipleOf17.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\MultipleOf17\obj\Debug\net5.0\MultipleOf17.dll
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\MultipleOf17\obj\Debug\net5.0\ref\MultipleOf17.dll
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\MultipleOf17\obj\Debug\net5.0\MultipleOf17.pdb
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\MultipleOf17\obj\Debug\net5.0\MultipleOf17.genruntimeconfig.cache

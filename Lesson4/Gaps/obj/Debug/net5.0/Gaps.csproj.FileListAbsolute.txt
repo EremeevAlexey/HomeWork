@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\Gaps\bin\Debug\net5.0\Gaps.exe
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\Gaps\bin\Debug\net5.0\Gaps.deps.json
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\Gaps\bin\Debug\net5.0\Gaps.runtimeconfig.json
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\Gaps\bin\Debug\net5.0\Gaps.runtimeconfig.dev.json
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\Gaps\bin\Debug\net5.0\Gaps.dll
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\Gaps\bin\Debug\net5.0\ref\Gaps.dll
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\Gaps\bin\Debug\net5.0\Gaps.pdb
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\Gaps\obj\Debug\net5.0\Gaps.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\Gaps\obj\Debug\net5.0\Gaps.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\Gaps\obj\Debug\net5.0\Gaps.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\Gaps\obj\Debug\net5.0\Gaps.AssemblyInfo.cs
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\Gaps\obj\Debug\net5.0\Gaps.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\Gaps\obj\Debug\net5.0\Gaps.dll
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\Gaps\obj\Debug\net5.0\ref\Gaps.dll
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\Gaps\obj\Debug\net5.0\Gaps.pdb
+\\Mac\Home\Desktop\HW\Lesson 4\Lesson4\Gaps\obj\Debug\net5.0\Gaps.genruntimeconfig.cache
