@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alexeyeremeev/Desktop/HW/HomeWork/Lesson 3/The Area Of The Cone/The Area Of The Cone.csproj": {}
+    "\\\\Mac\\Home\\Desktop\\HW\\Lesson 3\\The Area Of The Cone\\The Area Of The Cone.csproj": {}
   },
   "projects": {
-    "/Users/alexeyeremeev/Desktop/HW/HomeWork/Lesson 3/The Area Of The Cone/The Area Of The Cone.csproj": {
+    "\\\\Mac\\Home\\Desktop\\HW\\Lesson 3\\The Area Of The Cone\\The Area Of The Cone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alexeyeremeev/Desktop/HW/HomeWork/Lesson 3/The Area Of The Cone/The Area Of The Cone.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\HW\\Lesson 3\\The Area Of The Cone\\The Area Of The Cone.csproj",
         "projectName": "The Area Of The Cone",
-        "projectPath": "/Users/alexeyeremeev/Desktop/HW/HomeWork/Lesson 3/The Area Of The Cone/The Area Of The Cone.csproj",
-        "packagesPath": "/Users/alexeyeremeev/.nuget/packages/",
-        "outputPath": "/Users/alexeyeremeev/Desktop/HW/HomeWork/Lesson 3/The Area Of The Cone/obj/",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\HW\\Lesson 3\\The Area Of The Cone\\The Area Of The Cone.csproj",
+        "packagesPath": "C:\\Users\\alexeyeremeev\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\HW\\Lesson 3\\The Area Of The Cone\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/alexeyeremeev/.config/NuGet/NuGet.Config"
+          "C:\\Users\\alexeyeremeev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
