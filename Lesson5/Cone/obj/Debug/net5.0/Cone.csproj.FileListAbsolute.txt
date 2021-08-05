@@ -1,0 +1,12 @@
+\\Mac\Home\Desktop\HW\Lesson5\Cone\bin\Debug\net5.0\Cone.deps.json
+\\Mac\Home\Desktop\HW\Lesson5\Cone\bin\Debug\net5.0\Cone.dll
+\\Mac\Home\Desktop\HW\Lesson5\Cone\bin\Debug\net5.0\ref\Cone.dll
+\\Mac\Home\Desktop\HW\Lesson5\Cone\bin\Debug\net5.0\Cone.pdb
+\\Mac\Home\Desktop\HW\Lesson5\Cone\obj\Debug\net5.0\Cone.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\HW\Lesson5\Cone\obj\Debug\net5.0\Cone.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\HW\Lesson5\Cone\obj\Debug\net5.0\Cone.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\HW\Lesson5\Cone\obj\Debug\net5.0\Cone.AssemblyInfo.cs
+\\Mac\Home\Desktop\HW\Lesson5\Cone\obj\Debug\net5.0\Cone.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\HW\Lesson5\Cone\obj\Debug\net5.0\Cone.dll
+\\Mac\Home\Desktop\HW\Lesson5\Cone\obj\Debug\net5.0\ref\Cone.dll
+\\Mac\Home\Desktop\HW\Lesson5\Cone\obj\Debug\net5.0\Cone.pdb
