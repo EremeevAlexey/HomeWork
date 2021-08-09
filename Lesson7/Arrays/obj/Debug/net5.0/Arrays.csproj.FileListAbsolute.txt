@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\HW\InWork\Lesson7\Arrays\bin\Debug\net5.0\Arrays.exe
+\\Mac\Home\Desktop\HW\InWork\Lesson7\Arrays\bin\Debug\net5.0\Arrays.deps.json
+\\Mac\Home\Desktop\HW\InWork\Lesson7\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+\\Mac\Home\Desktop\HW\InWork\Lesson7\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+\\Mac\Home\Desktop\HW\InWork\Lesson7\Arrays\bin\Debug\net5.0\Arrays.dll
+\\Mac\Home\Desktop\HW\InWork\Lesson7\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+\\Mac\Home\Desktop\HW\InWork\Lesson7\Arrays\bin\Debug\net5.0\Arrays.pdb
+\\Mac\Home\Desktop\HW\InWork\Lesson7\Arrays\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\HW\InWork\Lesson7\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\HW\InWork\Lesson7\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\HW\InWork\Lesson7\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+\\Mac\Home\Desktop\HW\InWork\Lesson7\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\HW\InWork\Lesson7\Arrays\obj\Debug\net5.0\Arrays.dll
+\\Mac\Home\Desktop\HW\InWork\Lesson7\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+\\Mac\Home\Desktop\HW\InWork\Lesson7\Arrays\obj\Debug\net5.0\Arrays.pdb
+\\Mac\Home\Desktop\HW\InWork\Lesson7\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
