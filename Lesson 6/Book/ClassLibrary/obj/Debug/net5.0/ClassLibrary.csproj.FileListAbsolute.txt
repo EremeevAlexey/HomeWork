@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\HW\InWork\Book\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+\\Mac\Home\Desktop\HW\InWork\Book\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+\\Mac\Home\Desktop\HW\InWork\Book\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+\\Mac\Home\Desktop\HW\InWork\Book\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+\\Mac\Home\Desktop\HW\InWork\Book\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\HW\InWork\Book\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\HW\InWork\Book\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+\\Mac\Home\Desktop\HW\InWork\Book\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\HW\InWork\Book\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+\\Mac\Home\Desktop\HW\InWork\Book\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+\\Mac\Home\Desktop\HW\InWork\Book\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb
