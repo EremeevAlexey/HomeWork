@@ -1,0 +1,12 @@
+\\Mac\Home\Desktop\HW\InWork\Lesson9\MyCollection\bin\Debug\net5.0\MyCollectionBild.deps.json
+\\Mac\Home\Desktop\HW\InWork\Lesson9\MyCollection\bin\Debug\net5.0\MyCollectionBild.dll
+\\Mac\Home\Desktop\HW\InWork\Lesson9\MyCollection\bin\Debug\net5.0\ref\MyCollectionBild.dll
+\\Mac\Home\Desktop\HW\InWork\Lesson9\MyCollection\bin\Debug\net5.0\MyCollectionBild.pdb
+\\Mac\Home\Desktop\HW\InWork\Lesson9\MyCollection\obj\Debug\net5.0\MyCollectionBild.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\HW\InWork\Lesson9\MyCollection\obj\Debug\net5.0\MyCollectionBild.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\HW\InWork\Lesson9\MyCollection\obj\Debug\net5.0\MyCollectionBild.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\HW\InWork\Lesson9\MyCollection\obj\Debug\net5.0\MyCollectionBild.AssemblyInfo.cs
+\\Mac\Home\Desktop\HW\InWork\Lesson9\MyCollection\obj\Debug\net5.0\MyCollectionBild.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\HW\InWork\Lesson9\MyCollection\obj\Debug\net5.0\MyCollectionBild.dll
+\\Mac\Home\Desktop\HW\InWork\Lesson9\MyCollection\obj\Debug\net5.0\ref\MyCollectionBild.dll
+\\Mac\Home\Desktop\HW\InWork\Lesson9\MyCollection\obj\Debug\net5.0\MyCollectionBild.pdb
