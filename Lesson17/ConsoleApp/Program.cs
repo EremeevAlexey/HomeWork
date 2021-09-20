@@ -16,7 +16,7 @@ namespace ConsoleApp
             List<Car> cars = new List<Car>();
 
             timer.Start();
-            for (int car = 0; car <= 100; car++)
+            for (int car = 0; car <= 100000000; car++)
             {
                 Random rnd = new Random();
                 int randomAge = rnd.Next(1, 7);
