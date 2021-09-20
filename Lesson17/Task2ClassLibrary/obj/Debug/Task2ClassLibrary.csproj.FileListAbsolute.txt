@@ -1,0 +1,10 @@
+C:\Users\Unikum\Desktop\HW\Lesson17\Task2ClassLibrary\bin\Debug\Task2ClassLibrary.dll
+C:\Users\Unikum\Desktop\HW\Lesson17\Task2ClassLibrary\bin\Debug\Task2ClassLibrary.pdb
+C:\Users\Unikum\Desktop\HW\Lesson17\Task2ClassLibrary\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Unikum\Desktop\HW\Lesson17\Task2ClassLibrary\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Unikum\Desktop\HW\Lesson17\Task2ClassLibrary\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Unikum\Desktop\HW\Lesson17\Task2ClassLibrary\obj\Debug\Task2ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Unikum\Desktop\HW\Lesson17\Task2ClassLibrary\obj\Debug\Task2ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Unikum\Desktop\HW\Lesson17\Task2ClassLibrary\obj\Debug\Task2ClassLibrary.csproj.CopyComplete
+C:\Users\Unikum\Desktop\HW\Lesson17\Task2ClassLibrary\obj\Debug\Task2ClassLibrary.dll
+C:\Users\Unikum\Desktop\HW\Lesson17\Task2ClassLibrary\obj\Debug\Task2ClassLibrary.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Task2ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Task2ClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Task2ConsoleApp.dll": {}
+        }
+      },
+      "Task2ClassLibrary/1.0.0": {
+        "runtime": {
+          "Task2ClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task2ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Task2ClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
