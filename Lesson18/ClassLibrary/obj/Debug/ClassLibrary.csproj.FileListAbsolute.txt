@@ -1,0 +1,10 @@
+C:\Users\Unikum\source\repos\Lesson18\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Unikum\source\repos\Lesson18\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Unikum\source\repos\Lesson18\ClassLibrary\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Unikum\source\repos\Lesson18\ClassLibrary\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Unikum\source\repos\Lesson18\ClassLibrary\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Unikum\source\repos\Lesson18\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Unikum\source\repos\Lesson18\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Unikum\source\repos\Lesson18\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
+C:\Users\Unikum\source\repos\Lesson18\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Unikum\source\repos\Lesson18\ClassLibrary\obj\Debug\ClassLibrary.pdb
