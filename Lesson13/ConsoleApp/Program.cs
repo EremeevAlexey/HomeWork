@@ -7,37 +7,33 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+            //создать Product[5].
             Product[] products =
             {
-                new Product { Name = "PlayStation", ShopName = "Sony" },
-                new Product { Name = "iPhone 12Pro", ShopName = "iStore" },
-                new Product { Name = "Redmi 9 Pro", ShopName = "MiStore" },
-                new Product { Name = "Huawei mate 10", ShopName = "Huawei" },
-                new Product { Name = "Samsung galaxy s10", ShopName = "Samsung" }
+                new Product { Produkt = "PlayStation", ShopName = "Sony" },
+                new Product { Produkt = "iPhone 12Pro", ShopName = "iStore" },
+                new Product { Produkt = "Redmi 9 Pro", ShopName = "MiStore" },
+                new Product { Produkt = "Huawei mate 10", ShopName = "Huawei" },
+                new Product { Produkt = "Samsung galaxy s10", ShopName = "Samsung" }
             };
-            
-            Array.Sort(products, Product.CompareShops);
 
+            //Отсортировать в алфавитном порядке по названиям магазинов.
+            Compare compare = new Compare();
+            Array.Sort(products, compare.CompareShops);
+           
+            Console.WriteLine("Какой магазин вас интересует?");
+            foreach (var prod in products)
+                Console.WriteLine(prod.ShopName);
 
-            Console.Write("Введите название магазина:");
+            //Вводим с клавиатуры название магазина.
+            Console.Write("\nВведите название магазина: ");
             string checkShopName = Console.ReadLine();
-            bool startException = false;
 
-            foreach (var nameShop in products)
-            {
-                if (nameShop.ShopName == checkShopName)
-                {
-                    Console.WriteLine($"\nВ магазине {nameShop.ShopName} продается {nameShop.Name}");
-                    startException = true;
-                }
-                
-            }
-
-            if (!startException)
-            {
-                throw new ShopNotFoudException(checkShopName);
-            }
-
+            //Получаем все товары данного магазина -> если такого магазина нет, выдаем наше кастомное исключение.
+            FoundProdukts foundProdukt = new FoundProdukts();
+            foundProdukt.FoundProdukt(products, checkShopName);
+            Console.WriteLine(foundProdukt.Result);           
+ 
             Console.ReadKey();
         }
     }

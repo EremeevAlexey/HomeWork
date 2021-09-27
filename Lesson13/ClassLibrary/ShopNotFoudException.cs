@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary
 {
-    public class ShopNotFoudException : Exception
+    [System.Serializable]
+    public class ShopNotFoudException : ApplicationException
     {
         public ShopNotFoudException(string shopName) : base($"Магазина с названием {shopName} не существует ")
         {
 
         }
-  
+        
     }
 }

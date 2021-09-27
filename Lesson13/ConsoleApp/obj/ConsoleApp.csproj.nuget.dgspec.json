@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Desktop\\HW\\InWork\\Lesson13\\ConsoleApp\\ConsoleApp.csproj": {}
+    "\\\\Mac\\Home\\Desktop\\HW\\HomeWork\\Lesson13\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Desktop\\HW\\InWork\\Lesson13\\ClassLibrary\\ClassLibrary.csproj": {
+    "\\\\Mac\\Home\\Desktop\\HW\\HomeWork\\Lesson13\\ClassLibrary\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\HW\\InWork\\Lesson13\\ClassLibrary\\ClassLibrary.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\HW\\HomeWork\\Lesson13\\ClassLibrary\\ClassLibrary.csproj",
         "projectName": "ClassLibrary",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\HW\\InWork\\Lesson13\\ClassLibrary\\ClassLibrary.csproj",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\HW\\HomeWork\\Lesson13\\ClassLibrary\\ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\alexeyeremeev\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\HW\\InWork\\Lesson13\\ClassLibrary\\obj\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\HW\\HomeWork\\Lesson13\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexeyeremeev\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "\\\\Mac\\Home\\Desktop\\HW\\InWork\\Lesson13\\ConsoleApp\\ConsoleApp.csproj": {
+    "\\\\Mac\\Home\\Desktop\\HW\\HomeWork\\Lesson13\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\HW\\InWork\\Lesson13\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\HW\\HomeWork\\Lesson13\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\HW\\InWork\\Lesson13\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\HW\\HomeWork\\Lesson13\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\alexeyeremeev\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\HW\\InWork\\Lesson13\\ConsoleApp\\obj\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\HW\\HomeWork\\Lesson13\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexeyeremeev\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "\\\\Mac\\Home\\Desktop\\HW\\InWork\\Lesson13\\ClassLibrary\\ClassLibrary.csproj": {
-                "projectPath": "\\\\Mac\\Home\\Desktop\\HW\\InWork\\Lesson13\\ClassLibrary\\ClassLibrary.csproj"
+              "\\\\Mac\\Home\\Desktop\\HW\\HomeWork\\Lesson13\\ClassLibrary\\ClassLibrary.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Desktop\\HW\\HomeWork\\Lesson13\\ClassLibrary\\ClassLibrary.csproj"
               }
             }
           }

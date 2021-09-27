@@ -4,13 +4,13 @@ namespace ClassLibrary
 {
     public struct Product
     {
-        string name;
-        string shopName;
+        string produkt;
+        string shopName;       
 
-        public string Name
+        public string Produkt
         {
-            get { return name; }
-            set { name = value; }
+            get { return produkt; }
+            set { produkt = value; }
         }
 
         public string ShopName
@@ -19,10 +19,8 @@ namespace ClassLibrary
             set { shopName = value; }
         }
 
-        public static int CompareShops(Product firstShop, Product secondShop)
-        {
-            return string.Compare(firstShop.ShopName, secondShop.ShopName);
-        }
+        
+        
 
     }
 }
